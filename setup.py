@@ -12,7 +12,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/kaustuvkaran01/ktopsis',
     # I explain this later on
-    download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
+    download_url='https://github.com/kaustuvkaran01/ktopsis/archive/v_01.tar.gz',
     # Keywords that define your package best
     keywords=['TOPSIS', 'PYTHON'],
     install_requires=[            # I get to this in a second
