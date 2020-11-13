@@ -25,7 +25,7 @@ setup(
         'Development Status :: 4 - Beta',
         # Define that your audience are developers
         'Intended Audience :: Developers',
-        'Topic :: Mathematical Tools :: TOPSIS Tool',
+        'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',   # Again, pick a license
         # Specify which pyhton versions that you want to support
         'Programming Language :: Python :: 3',
